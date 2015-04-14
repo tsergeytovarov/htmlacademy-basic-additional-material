@@ -1,7 +1,7 @@
 #### Статьи
 ----------
 Сатьи академии
-+[Приницпы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
++[Приницпы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)<br>
 +[Обзор текстовых редакторов для верстальщика](https://htmlacademy.ru/blog/40)
 +[Что на самом деле происходит, когда пользователь вбивает в браузер адрес](http://habrahabr.ru/company/htmlacademy/blog/254825/)
 
