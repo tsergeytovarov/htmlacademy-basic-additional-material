@@ -9,8 +9,8 @@
 [Загружаем файлы на сервер с помощью FTP](http://ourworkspace.ru/htmlacademy/blog/upload-file-on-server-ftp/)<br>
 [Поговорим о CSS селекторах](http://ourworkspace.ru/htmlacademy/blog/talk-about-css-selcetors/)<br>
 [Базовые свойства CSS](http://ourworkspace.ru/htmlacademy/blog/base-css/)<br>
-[Базовые HTML теги](http://ourworkspace.ru/htmlacademy/blog/basic-html/)<br><br>
-(!)[Как понравиться своему наставнику](http://ourworkspace.ru/htmlacademy/blog/kak-ponravitca-svoemy-nastavniky/)<br>
+[Базовые HTML теги](http://ourworkspace.ru/htmlacademy/blog/basic-html/)<br>
+[Как понравиться своему наставнику](articles/как-понравиться-своему-наставнику/article.md)<br>
 (!)[Верстаем локально](http://ourworkspace.ru/htmlacademy/blog/local-work/)<br>
 (!)[Типичные ошибки выпускного проекта](http://ourworkspace.ru/htmlacademy/blog/%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/)<br>
 (!)[Обновленные критерии сдачи проектов](http://ourworkspace.ru/htmlacademy/blog/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BA%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B4%D0%B0%D1%87%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA/)<br>

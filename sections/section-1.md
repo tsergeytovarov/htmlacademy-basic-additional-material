@@ -6,7 +6,7 @@
 #### Статьи
 ----------
 [Обзор текстовых редакторов для верстальщика](https://htmlacademy.ru/blog/40)<br>
-(!)[Как понравиться своему наставнику](http://ourworkspace.ru/htmlacademy/blog/kak-ponravitca-svoemy-nastavniky/)<br>
+[Как понравиться своему наставнику](articles/как-понравиться-своему-наставнику/article.md)<br>
 (!)[Верстаем локально](http://ourworkspace.ru/htmlacademy/blog/local-work/)<br>
 [Загружаем файлы на сервер с помощью FTP](http://ourworkspace.ru/htmlacademy/blog/upload-file-on-server-ftp/)<br>
 [Что на самом деле происходит, когда пользователь вбивает в браузер адрес](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br>
