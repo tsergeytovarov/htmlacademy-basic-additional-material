@@ -8,7 +8,6 @@
 [Обзор текстовых редакторов для верстальщика](https://htmlacademy.ru/blog/40)<br>
 [Как понравиться своему наставнику](../articles/как-понравиться-своему-наставнику/article.md)<br>
 [Верстаем локально](../articles/верстаем-локально/article.md)<br>
-[Загружаем файлы на сервер с помощью FTP](http://ourworkspace.ru/htmlacademy/blog/upload-file-on-server-ftp/)<br>
 [Что на самом деле происходит, когда пользователь вбивает в браузер адрес](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br>
 
 #### Скринкасты

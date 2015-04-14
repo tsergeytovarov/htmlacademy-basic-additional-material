@@ -6,7 +6,6 @@
 [Что на самом деле происходит, когда пользователь вбивает в браузер адрес](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br><br>
 
 Мои статьи<br>
-[Загружаем файлы на сервер с помощью FTP](http://ourworkspace.ru/htmlacademy/blog/upload-file-on-server-ftp/)<br>
 [Поговорим о CSS селекторах](http://ourworkspace.ru/htmlacademy/blog/talk-about-css-selcetors/)<br>
 [Базовые свойства CSS](http://ourworkspace.ru/htmlacademy/blog/base-css/)<br>
 [Базовые HTML теги](http://ourworkspace.ru/htmlacademy/blog/basic-html/)<br>
