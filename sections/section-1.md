@@ -14,6 +14,7 @@
 #### Скринкасты
 ----------
 [Основы работы с Git](https://www.youtube.com/watch?v=Oyj5yVVrT4Q)
+[Обзор текстового редактора Sublime Text](https://www.youtube.com/watch?v=zdQ8Lyg58ak)
 
 #### Другие материалы
 ----------
