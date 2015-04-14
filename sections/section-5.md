@@ -8,9 +8,9 @@
 
 #### Скринкасты
 ----------
-[Верстка проекта - часть 3(1) - стилизация](https://www.youtube.com/watch?v=RqKF9azJMZA)
-[Верстка проекта - часть 3(2) - стилизация](https://www.youtube.com/watch?v=Towu-6QHc3g)
-[Верстка проекта - часть 4 - стилизация](https://www.youtube.com/watch?v=5kCTWhnU4nM)
+[Верстка проекта - часть 3(1) - стилизация](https://www.youtube.com/watch?v=RqKF9azJMZA)<br>
+[Верстка проекта - часть 3(2) - стилизация](https://www.youtube.com/watch?v=Towu-6QHc3g)<br>
+[Верстка проекта - часть 4 - стилизация](https://www.youtube.com/watch?v=5kCTWhnU4nM)<br>
 
 #### Другие материалы
 ----------
