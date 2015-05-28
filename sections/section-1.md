@@ -39,5 +39,5 @@ http://discuss.htmlacademy.ru/t/poleznye-ssylki-i-materialy/378 — копилк
 ----------
 * https://developer.mozilla.org/ru.
 * https://css-tricks.com/almanac.
-* http://htmlbook.ru.
+* http://html5doctor.com/
 * http://tympanus.net/codrops/css_reference.
