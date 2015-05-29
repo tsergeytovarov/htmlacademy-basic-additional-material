@@ -11,7 +11,7 @@
 #### Скринкасты
 ----------
 [Обзор работы веб-инспектора](https://www.youtube.com/watch?v=l3IeCrGNwbM)<br>
-[Верстка проекта - часть 2 - разметка](https://www.youtube.com/watch?v=vsHnPYJDBEU)<br>
+[Верстка проекта — часть 2. Разметка](https://youtu.be/vsHnPYJDBEU)<br>
 
 #### Другие материалы
 ----------
