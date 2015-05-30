@@ -7,13 +7,7 @@
 ----------
 [Базовые HTML теги](http://ourworkspace.ru/htmlacademy/blog/basic-html/)<br>
 [Сниппеты HTML](https://css-tricks.com/snippets/html/)<br>
-HTML5 (новые теги)
-* https://htmlacademy.ru/courses/73 — Курс «знакомство с HTML5».
-* http://habrahabr.ru/post/214407 — статья на хабре «Как использовать секционные элементы HTML5».
-* https://events.yandex.ru/lib/talks/1520 — «Семантика или смерть».
-* https://pp.vk.me/c310120/v310120418/da6c/E3052HIBVE4.jpg — краткая шпаргалка по HTML5 от html5doctor.
-* http://discuss.htmlacademy.ru/t/html5-tegi/2336 — небольшая дискуссия на форуме.
-
+[Хабр. «Как использовать секционные элементы HTML5»](http://habrahabr.ru/post/214407)<br>
 
 #### Скринкасты
 ----------
@@ -23,3 +17,7 @@ HTML5 (новые теги)
 
 #### Другие материалы
 ----------
+[Курс «знакомство с HTML5»](https://htmlacademy.ru/courses/73)<br>
+[Web Standards Days. «Семантика или смерт»](https://events.yandex.ru/lib/talks/1520)<br>
+[Краткая шпаргалка по HTML5 от html5doctor](https://pp.vk.me/c310120/v310120418/da6c/E3052HIBVE4.jpg)<br>
+[Небольшая дискуссия на форуме на тему HTML5-тегов](http://discuss.htmlacademy.ru/t/html5-tegi/2336)
