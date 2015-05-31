@@ -5,13 +5,16 @@
 
 #### Статьи
 ----------
-[Базовые свойства CSS](http://ourworkspace.ru/htmlacademy/blog/base-css/)<br>
-[Поговорим о CSS селекторах](http://ourworkspace.ru/htmlacademy/blog/talk-about-css-selcetors/)<br>
-[Работа со шрифтом](https://www.youtube.com/watch?v=vXxOcCBLX4w)<br>
-[Верстка проекта - часть 1 - подготовка проекта и нарезка графики](https://www.youtube.com/watch?v=zugLe8Xrpd8)<br>
+[Блог наставника. «Базовые свойства CSS»](http://ourworkspace.ru/htmlacademy/blog/base-css/)<br>
+[Блог наставника. «Поговорим о CSS селекторах»](http://ourworkspace.ru/htmlacademy/blog/talk-about-css-selcetors/)<br>
+[Клавиатурное сокращение для быстрого копирования текста из фотошопа](https://gist.github.com/praveenvijayan/b4c367f4b903a3f9f250)<br>
 
 #### Скринкасты
 ----------
+[Сергей Попов. «Верстка проекта — часть 1. Подготовка проекта и нарезка графики»](https://youtu.be/zugLe8Xrpd8)<br>
+[Сергей Попов. «Работа со шрифтами»](https://youtu.be/vXxOcCBLX4w)<br>
+[Андрей Алексеев. «Обзор плагина для получения классов из разметки»](https://youtu.be/PI9_XGKoVP8)<br>
 
 #### Другие материалы
 ----------
+[Скачать фотошоп, бесплатная 30 дневная версия без лагов](https://creative.adobe.com/ru/products/download/photoshop)
