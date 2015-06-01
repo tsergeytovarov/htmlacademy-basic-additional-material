@@ -5,22 +5,20 @@
 
 #### Статьи
 ----------
-[Обзор текстовых редакторов для верстальщика](https://htmlacademy.ru/blog/40)<br>
+[Блог HTML Academy. «Обзор текстовых редакторов для верстальщика»](https://htmlacademy.ru/blog/40)<br>
 [Как понравиться своему наставнику](../articles/как-понравиться-своему-наставнику/article.md)<br>
 [Верстаем локально](../articles/верстаем-локально/article.md)<br>
-[Что на самом деле происходит, когда пользователь вбивает в браузер адрес](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br>
-[Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/Dictionary.md)<br>
-Emmet:<br>
-1. http://emmet.io - сайт проекта<br>
-2. http://docs.emmet.io/cheat-sheet/ — эту шпаргалку сразу в закладки<br>
-3. http://epixx.ru/emmet — тренажер по emmet<br>
-https://vk.com/wall300030_7828 - пост про верстку от Алексея Федосова<br>
-http://discuss.htmlacademy.ru/t/poleznye-ssylki-i-materialy/378 — копилка ссылок от Академии<br>
+[Хабр. «Что на самом деле происходит, когда пользователь вбивает в браузер адрес»](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br>
+
+#### Emmet
+----------
+[Cайт проекта](http://emmet.io)<br>
+[Шпаргалка](http://docs.emmet.io/cheat-sheet/). Cразу в закладки<br>
+[Тренажёр](http://epixx.ru/emmet)<br>
 
 #### Скринкасты
 ----------
-[Основы работы с Git](https://www.youtube.com/watch?v=Oyj5yVVrT4Q)<br>
-[Обзор текстового редактора Sublime Text](https://www.youtube.com/watch?v=zdQ8Lyg58ak)<br>
+[Сергей Попов. «Основы работы с Git»](https://youtu.be/Oyj5yVVrT4Q)<br>
 
 #### Текстовые редакторы
 ----------
@@ -31,13 +29,19 @@ http://discuss.htmlacademy.ru/t/poleznye-ssylki-i-materialy/378 — копилк
 
 #### Песочницы
 ----------
-* http://jsbin.com/ 
-* http://codepen.io/ 
-* https://jsfiddle.net (для совместной работы).
+[jsbin](http://jsbin.com/)<br>
+[codepen](http://codepen.io/)<br>
+[jsfiddle](https://jsfiddle.net) — для совместной работы.<br>
+
+#### Полезные материалы
+----------
+[Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/Dictionary.md)<br>
+[Пост про вёрстку от Алексея Федосова](https://vk.com/wall300030_7828)<br>
+[Копилка ссылок на форуме Академии](http://discuss.htmlacademy.ru/t/poleznye-ssylki-i-materialy/378)<br>
 
 #### Справочники по HTML/CSS
 ----------
-* https://developer.mozilla.org/ru.
-* https://css-tricks.com/almanac.
-* http://html5doctor.com/
-* http://tympanus.net/codrops/css_reference.
+[developer.mozilla.org](https://developer.mozilla.org/ru)<br>
+[css-tricks «almanac»](https://css-tricks.com/almanac)<br>
+[html5doctor](http://html5doctor.com/)<br>
+[tympanus «css_reference»](http://tympanus.net/codrops/css_reference)<br>
