@@ -5,22 +5,20 @@
 
 #### Статьи
 ----------
-[Приницпы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)<br>
-[WTF forms?](http://wtfforms.com/) — cтилизации элементов формы
-[Одиннадцатиклассница, или тестируем баги вёрстки](http://habrahabr.ru/company/2gis/blog/246831/)
-
-
+[Хабр. «Принципы анимации для веба»](http://habrahabr.ru/company/htmlacademy/blog/255583/)<br>
+[Хабр. «Одиннадцатиклассница, или тестируем баги вёрстки»](http://habrahabr.ru/company/2gis/blog/246831/)<br>
+[«WTF forms?»](http://wtfforms.com/) — стилизация элементов формы<br>
 
 #### Скринкасты
 ----------
-[Работаем с иконочным шрифтом](https://www.youtube.com/watch?v=2-UH0bnYPHY)<br>
-[Кастомизация чекбоксов - спрайт](https://www.youtube.com/watch?v=1lyqVf4tftc)<br>
-[Кастомизация чекбоксов - иконочный шрифт](https://www.youtube.com/watch?v=m0-c75v4xvs)<br>
-[Кастомизация чекбоксов - чистый CSS](https://www.youtube.com/watch?v=EE5ZhZslhAQ)<br>
-[Верстка проекта - часть 5 - шлифовка](https://www.youtube.com/watch?v=_8kVxOXpM_s)<br>
+[Сергей Попов. «Работаем с иконочным шрифтом»](https://youtu.be/2-UH0bnYPHY)<br>
+[Сергей Попов. «Кастомизация чекбоксов. Спрайт»](https://youtu.be/1lyqVf4tftc)<br>
+[Сергей Попов. «Кастомизация чекбоксов. Иконочный шрифт»](https://youtu.be/m0-c75v4xvs)<br>
+[Сергей Попов. «Кастомизация чекбоксов. Чистый CSS»](https://youtu.be/EE5ZhZslhAQ)<br>
+[Сергей Попов. «Верстка проекта — часть 5. Шлифовка»](https://youtu.be/_8kVxOXpM_s)<br>
 
 #### Другие материалы
 ----------
 [Fontello](http://fontello.com/) — генератор иконочных шрифтов. В разделе [Help/Wiki](https://github.com/fontello/fontello/wiki) можно найти толковые образовательные материалы.<br>
-[Icomoon](https://icomoon.io/app/) — похожий генератор шрифтов с дополнительным функционалом и другой базой.
+[Icomoon](https://icomoon.io/app/) — похожий генератор шрифтов с дополнительным функционалом и другой базой.<br>
 [Генератор спрайтов](http://spritegen.website-performance.org/)
