@@ -6,6 +6,10 @@
 #### Статьи
 ----------
 [Приницпы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)<br>
+[WTF forms?](http://wtfforms.com/) — cтилизации элементов формы
+[Одиннадцатиклассница, или тестируем баги вёрстки](http://habrahabr.ru/company/2gis/blog/246831/)
+
+
 
 #### Скринкасты
 ----------
@@ -17,3 +21,6 @@
 
 #### Другие материалы
 ----------
+[Fontello](http://fontello.com/) — генератор иконочных шрифтов. В разделе [Help/Wiki](https://github.com/fontello/fontello/wiki) можно найти толковые образовательные материалы.<br>
+[Icomoon](https://icomoon.io/app/) — похожий генератор шрифтов с дополнительным функционалом и другой базой.
+[Генератор спрайтов](http://spritegen.website-performance.org/)

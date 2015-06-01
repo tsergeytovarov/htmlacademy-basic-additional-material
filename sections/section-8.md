@@ -13,3 +13,6 @@
 
 #### Другие материалы
 ----------
+[browserStack](https://www.browserstack.com/screenshots) — скриншоты браузера на различных устройствах <br>
+[CanIUse](http://caniuse.com/) – поддержка различных свойств браузерами (есть еще [плагин для саблайма](https://github.com/Azd325/sublime-text-caniuse))<br>
+[htmllinks](http://htmllinks.ru/) — еще больше ссылок!
