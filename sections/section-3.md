@@ -5,8 +5,7 @@
 
 #### Статьи
 ----------
-[Блог наставника. «Базовые свойства CSS»](http://ourworkspace.ru/htmlacademy/blog/base-css/)<br>
-[Блог наставника. «Поговорим о CSS селекторах»](http://ourworkspace.ru/htmlacademy/blog/talk-about-css-selcetors/)<br>
+[Блог наставника. «Поговорим о CSS селекторах»](../articles/css-селекторы/article.md)<br>
 [Клавиатурное сокращение для быстрого копирования текста из фотошопа](https://gist.github.com/praveenvijayan/b4c367f4b903a3f9f250)<br>
 
 #### Скринкасты

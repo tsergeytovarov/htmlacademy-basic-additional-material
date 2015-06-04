@@ -9,7 +9,6 @@
 
 #### Статьи
 ----------
-[Блог наставника. «Базовые HTML теги»](http://ourworkspace.ru/htmlacademy/blog/basic-html/)<br>
 [Хабр. «Как использовать секционные элементы HTML5»](http://habrahabr.ru/post/214407)
 
 #### Скринкасты

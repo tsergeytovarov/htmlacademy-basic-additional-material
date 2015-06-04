@@ -8,9 +8,7 @@
 
 Мои статьи
 
-[Поговорим о CSS селекторах](http://ourworkspace.ru/htmlacademy/blog/talk-about-css-selcetors/)<br>
-[Базовые свойства CSS](http://ourworkspace.ru/htmlacademy/blog/base-css/)<br>
-[Базовые HTML теги](http://ourworkspace.ru/htmlacademy/blog/basic-html/)<br>
+[Поговорим о CSS селекторах](../articles/css-селекторы/article.md)<br>
 [Как понравиться своему наставнику](../articles/как-понравиться-своему-наставнику/article.md)<br>
 [Верстаем локально](../articles/верстаем-локально/article.md)<br>
 [Типичные ошибки, которые совершают студенты начиная использовать БЭМ](../articles/ошибки-бэм/article.md)<br>
