@@ -9,6 +9,8 @@
 [Как понравиться своему наставнику](../articles/как-понравиться-своему-наставнику/article.md)<br>
 [Верстаем локально](../articles/верстаем-локально/article.md)<br>
 [Хабр. «Что на самом деле происходит, когда пользователь вбивает в браузер адрес»](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br>
+[Основы HTML](https://events.yandex.ru/lib/talks/1363/)<br>
+[История HTML](http://htmleditors.ru/Rasnoe/history/history1.html)<br>
 
 #### Emmet
 ----------
