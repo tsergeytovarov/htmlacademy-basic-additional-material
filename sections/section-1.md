@@ -37,7 +37,7 @@
 
 #### Полезные материалы
 ----------
-[Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary/blob/master/Dictionary.md)<br>
+[Словарь терминов по фронтенду](https://github.com/web-standards-ru/dictionary)<br>
 [Пост про вёрстку от Алексея Федосова](https://vk.com/wall300030_7828)<br>
 [Копилка ссылок на форуме Академии](http://discuss.htmlacademy.ru/t/poleznye-ssylki-i-materialy/378)<br>
 
