@@ -10,6 +10,12 @@
 #### Статьи
 ----------
 [Хабр. «Как использовать секционные элементы HTML5»](http://habrahabr.ru/post/214407)
+[Доклад с Web Standards Days. «Семантика или смерть»](https://events.yandex.ru/lib/talks/1520)<br>
+[Небольшая дискуссия на форуме на тему HTML5-тегов](http://discuss.htmlacademy.ru/t/html5-tegi/2336)<br>
+
+#### Инструменты
+----------
+[Быстрая вставка замены для картинок](https://placehold.it/)
 
 #### Скринкасты
 ----------
@@ -18,7 +24,5 @@
 
 #### Полезные материалы
 ----------
-[Доклад с Web Standards Days. «Семантика или смерть»](https://events.yandex.ru/lib/talks/1520)<br>
-[Небольшая дискуссия на форуме на тему HTML5-тегов](http://discuss.htmlacademy.ru/t/html5-tegi/2336)<br>
 [Сниппеты HTML](https://css-tricks.com/snippets/html/)<br>
 [Краткая шпаргалка по HTML5 от html5doctor](https://pp.vk.me/c310120/v310120418/da6c/E3052HIBVE4.jpg)
