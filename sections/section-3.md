@@ -20,4 +20,4 @@
 
 #### Другие материалы
 ----------
-[Скачать фотошоп, бесплатная 30 дневная версия без лагов](https://creative.adobe.com/ru/products/download/photoshop)
+[Скачать фотошоп, бесплатная 30 дневная версия](https://creative.adobe.com/ru/products/download/photoshop)

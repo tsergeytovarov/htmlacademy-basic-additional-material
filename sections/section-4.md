@@ -17,7 +17,6 @@
 ----------
 [Сергей Попов. «Сетки»](https://youtu.be/ftGOG1SqMFg)<br>
 [Сергей Попов. «Модульные сетки»](https://youtu.be/gdzOooO4Dxo)<br>
-[Sorax. «Prepros — обзор приложения»](https://youtu.be/C1kJUnVHm1A)<br>
 
 #### Другие материалы
 ----------
