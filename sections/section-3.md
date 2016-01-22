@@ -9,6 +9,7 @@
 [Блог наставника. «Поговорим о CSS селекторах»](../articles/css-селекторы/article.md)<br>
 [Специфичтность селеторов CSS](http://sixrevisions.com/css/css-specificity/)<br>
 [Клавиатурное сокращение для быстрого копирования текста из фотошопа](https://gist.github.com/praveenvijayan/b4c367f4b903a3f9f250)<br>
+[Как ещё можно вставить картинку в документ. Используем base64](http://front-end.su/2015/09/08/image-to-base64/)
 
 #### Скринкасты
 ----------

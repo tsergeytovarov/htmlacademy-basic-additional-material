@@ -5,6 +5,7 @@
 
 #### Статьи
 ----------
+[Полное руководство по центрированию в CSS](http://frontender.info/centering-css-complete-guide/)
 
 #### Аналоги google-font'а и генераторы
 ----------
@@ -23,7 +24,7 @@
 ----------
 [pixLayout](http://pixlayout.polycreative.ru/) – jquery плагин, накладывающий изображение на верстку.<br>
 *Как подключить:* Создайте в корне проекта папку `«_assets»`, скопируйте туда скрипт и библиотеку [jquery](http://jquery.com/download/), [вставьте скрипты](http://codepad.co/s/e0b78a) перед закрывающим `</body>`.
- 
+
 [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru) — плагин для Chrome<br>
 [Pixel Perfect](https://addons.mozilla.org/en-us/firefox/addon/pixel-perfect/) — плагин для Firefox
 
