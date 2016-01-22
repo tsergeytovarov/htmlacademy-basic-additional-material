@@ -27,6 +27,7 @@
 [Скачать текстовый редактор Sublime Text 3](http://www.sublimetext.com/3)<br>
 [Скачать текстовый редактор Brackets](http://brackets.io/)<br>
 [Скачать текстовый редактор Atom](https://atom.io/)<br>
+[Установка и настройка текстового редактора Atom и дополнительных плагинов для него](https://medium.com/@zakharday/используем-atom-для-первой-вёрстки-8e2ff7aa9ffe#.rcm2b3p0r)<br>
 
 #### Песочницы
 ----------
