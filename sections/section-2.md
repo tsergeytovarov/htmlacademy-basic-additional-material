@@ -9,7 +9,7 @@
 
 #### Статьи
 ----------
-[Хабр. «Как использовать секционные элементы HTML5»](http://habrahabr.ru/post/214407)
+[Хабр. «Как использовать секционные элементы HTML5»](http://habrahabr.ru/post/214407)<br>
 [Доклад с Web Standards Days. «Семантика или смерть»](https://events.yandex.ru/lib/talks/1520)<br>
 [Небольшая дискуссия на форуме на тему HTML5-тегов](http://discuss.htmlacademy.ru/t/html5-tegi/2336)<br>
 
