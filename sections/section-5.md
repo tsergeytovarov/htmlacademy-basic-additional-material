@@ -19,6 +19,8 @@
 [Сергей Попов. «Вёрстка проекта — часть 3(1). Стилизация»](https://youtu.be/RqKF9azJMZA)<br>
 [Сергей Попов. «Вёрстка проекта — часть 3(2). Стилизация»](https://youtu.be/Towu-6QHc3g)<br>
 [Сергей Попов. «Вёрстка проекта — часть 4. Стилизация»](https://youtu.be/5kCTWhnU4nM)<br>
+[Сергей Попов. Обзор приложения Prepros](http://www.youtube.com/watch?v=trzyAu2KwUY)<br>
+[Сергей Попов. Введение в препроцессор SASS](http://www.youtube.com/watch?v=9vuvqH1gvxs)
 
 #### Попиксельное соответствие
 ----------
