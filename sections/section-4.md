@@ -23,3 +23,11 @@
 [Интерактивная блочная модель](http://codepen.io/carolineartz/full/ogVXZj/)<br>
 [Сниппеты CSS](https://css-tricks.com/snippets/css/)<br>
 [Справочник свойств CSS](http://tympanus.net/codrops/css_reference/)<br>
+
+#### Продвинутые материалы
+----------
+[Руководство по Flexbox](http://frontender.info/a-guide-to-flexbox/)<br>
+[HTML Academy. Курс «Флексбокс, часть 1» (доступен по подписке)](https://htmlacademy.ru/courses/96)<br>
+[HTML Academy. Курс «Флексбокс, часть 2» (доступен по подписке)](https://htmlacademy.ru/courses/113)<br>
+[Песочница с демонстрацией основных свойств Flexbox](http://codepen.io/enxaneta/full/adLPwv/)<br>
+[Тренажер Flexbox](http://flexboxfroggy.com/#ru)<br>
