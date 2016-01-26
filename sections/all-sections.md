@@ -20,7 +20,7 @@
 Другие статьи<br>
 [Сниппеты HTML](https://css-tricks.com/snippets/html/)<br>
 [Сниппеты CSS](https://css-tricks.com/snippets/css/)<br>
-[Справочник свойст CSS](http://tympanus.net/codrops/css_reference/)<br>
+[Справочник свойств CSS](http://tympanus.net/codrops/css_reference/)<br>
 
 #### Скринкасты
 ----------
