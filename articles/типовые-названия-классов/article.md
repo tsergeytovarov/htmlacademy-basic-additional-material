@@ -66,7 +66,7 @@
 .active, .selected
 
 /* неактивный, заблокированный */
-.dasibled, .inactive
+.disabled, .inactive
 
 /* скрытый */
 .hidden, .*-hidden
