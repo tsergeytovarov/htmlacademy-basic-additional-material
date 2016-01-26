@@ -1,6 +1,6 @@
 #### Статьи
 ----------
-Сатьи академии
+Статьи академии
 
 [Приницпы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)<br>
 [Обзор текстовых редакторов для верстальщика](https://htmlacademy.ru/blog/40)<br>
@@ -13,14 +13,13 @@
 [Верстаем локально](../articles/верстаем-локально/article.md)<br>
 [Типичные ошибки, которые совершают студенты начиная использовать БЭМ](../articles/ошибки-бэм/article.md)<br>
 [Какой препроцессор выбрать?](../articles/какой-препроцессор-выбрать/article.md)<br>
-(!)[Типичные ошибки выпускного проекта](http://ourworkspace.ru/htmlacademy/blog/%D1%82%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/)<br>
 [Критерии сдачи финального проекта](../articles/критерии-сдачи-финального-проекта/article.md)<br>
 [Чем заняться после прохождения интенсива](../articles/чем-заняться-после-интенсива/article.md)<br><br>
 
 Другие статьи<br>
 [Сниппеты HTML](https://css-tricks.com/snippets/html/)<br>
 [Сниппеты CSS](https://css-tricks.com/snippets/css/)<br>
-[Справочник свойст CSS](http://tympanus.net/codrops/css_reference/)<br>
+[Справочник свойств CSS](http://tympanus.net/codrops/css_reference/)<br>
 
 #### Скринкасты
 ----------

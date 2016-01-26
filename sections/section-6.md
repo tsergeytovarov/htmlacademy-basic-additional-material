@@ -7,7 +7,6 @@
 ----------
 [Хабр. «Принципы анимации для веба»](http://habrahabr.ru/company/htmlacademy/blog/255583/)<br>
 [Хабр. «Одиннадцатиклассница, или тестируем баги вёрстки»](http://habrahabr.ru/company/2gis/blog/246831/)<br>
-[«WTF forms?»](http://wtfforms.com/) — стилизация элементов формы<br>
 
 #### Скринкасты
 ----------
