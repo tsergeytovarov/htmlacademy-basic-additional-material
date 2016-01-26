@@ -1,73 +1,85 @@
 # Типовые названия классов для html
 
-### Базовые
+### Основные классы лэйаута
 ```css
-.content, .main,  //основной контент
-.column, .col //колонка
-.footer //подвал
-.head, .header //шапка, заголовок
-.sidebar //сайдбар
-.nav, .navigation, .navbar //навигация
-.menu //меню
-.map //карта
-.wrapper, .wrap //обёртка
-.breadcrumbs //"хлебные крошки"
-.pagination //пагинация
-.container //контейнер
-.box, .block //блок
-.row //строка
-.inner //внутренний
+/* Основная обёртка для страницы */
+.wrapper, .content-wrapper, .page-wrapper
+
+/* Контейнер для контента - ширина и центровка */
+.container, .inner-container
+
+/* Строка для колонок */
+.row
+
+/* Колонка */
+.col, .column
+
+/* Распорка или сброс float */
+.row, .clearfix, .clear
 ```
 
-### Списки
+### Типовые блоки
 ```css
-.list //список
-.item, .list-item //элемент списка
-.unstyled //без стилей
-.inline //строковый
+/* хедер */
+.header, .main-header, .page-header, .content-header, .*-header
+
+/* футер */
+.footer, .main-footer, .page-footer, .content-footer, .*-footer
+
+/* навигация */
+.main-navigation, .page-navigation, .navigation, .menu, .main-menu
+
+/* основной конетнт */
+.content, .main-content, .*-content
+
+/* боковая колонка */
+.sidebar, .page-sidebar
+
+/* хлебные крошки */
+.breadcrumbs, .breadcrumb
+
+/* постраничная навигация */
+.pagination
+
+/* карта, интерактиваня карта */
+.map, .map-canvas
+
+/* типовой блок с конетнтом */
+.block, .box
+
+/* список */
+.list, .*-list
+
+/* таблица */
+.table, .*-table
+
+/* кнопка */
+.btn, .button
 ```
 
-### Таблицы
+### Состояния элементов
 ```css
-.table //таблица
-.cell //ячейка
-.bordered //окаймленный
-.collapsed //схлопнутый
-.striped //полосатый
-.condensed //сжатый
+/* фиксированное положение на странице */
+.fixed, .sticky
+
+/* активный элемент, пункт меню, вкладка и т.д.*/
+.active, .selected
+
+/* неактивный, заблокированный */
+.dasibled, .inactive
+
+/* скрытый */
+.hidden, .*-hidden
 ```
 
-### Положение
+### Указатели
 ```css
-.fixed //фиксированное
-.vertical //вертикальный
-.horizontal //горизонтальный
-```
+/* Следующий */
+.next, .forward
 
-### Состояние
-```css
-.active, //активный
-.disable //неактивный
-.hidden //скрытый
-.show //отображаемый
-```
+/* Предыдущий */
+.prev, .previous
 
-### Переходы
-```css
-.ahead //в начало
-.back //назад
-.forward //вперед
-.next //следующий
-.prev, .previous //предыдущий
-```
-
-### Действия
-```css
-.clear //очистка
-```
-
-### Фигуры
-```css
-.arrow //стрелка
-.button //кнопка
+/* Назад */
+.back
 ```
