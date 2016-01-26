@@ -39,29 +39,15 @@
 
 ### Положение
 ```css
-.bottom //низ
-.center //центр
-.left //лево
-.right //право
-.top //верх
 .fixed //фиксированное
 .vertical //вертикальный
 .horizontal //горизонтальный
 ```
 
-### Размеры
-```css
-.xs, .tiny, .smallest //самый маленький
-.sm, .small //маленький
-.md, .normal, .medium //средний
-.lg, .large, .big //большой
-.xl, .extra-large, .biggest //самый большой
-```
-
 ### Состояние
 ```css
-.active, .enable //активный
-.deactivated, .disable //неактивный
+.active, //активный
+.disable //неактивный
 .hidden //скрытый
 .show //отображаемый
 ```
@@ -73,20 +59,6 @@
 .forward //вперед
 .next //следующий
 .prev, .previous //предыдущий
-.first //первый
-.last //последний
-```
-
-### Контекст
-```css
-.active //активный
-.danger //опасность
-.default //по умолчанию
-.error //ошибка
-.info //информационный
-.primary //основной
-.success //успешно
-.warning //внимание
 ```
 
 ### Действия
