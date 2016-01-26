@@ -53,6 +53,9 @@
 /* таблица */
 .table, .*-table
 
+/* изображение */
+.image, .img, .picture
+
 /* кнопка */
 .btn, .button
 ```
