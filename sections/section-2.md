@@ -25,5 +25,6 @@
 
 #### Полезные материалы
 ----------
+[Типовые названия классов HTML](../articles/типовые-названия-классов/article.md)<br>
 [Сниппеты HTML](https://css-tricks.com/snippets/html/)<br>
 [Краткая шпаргалка по HTML5 от html5doctor](https://pp.vk.me/c310120/v310120418/da6c/E3052HIBVE4.jpg)
