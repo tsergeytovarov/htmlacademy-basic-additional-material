@@ -20,6 +20,7 @@
 
 #### Другие материалы
 ----------
+[Алгоритм выбора float или inline-block](../articles/алгоритм-выбора-сетки/алгоритм-выбора-сетки.jpg)<br>
 [Интерактивная блочная модель](http://codepen.io/carolineartz/full/ogVXZj/)<br>
 [Сниппеты CSS](https://css-tricks.com/snippets/css/)<br>
 [Справочник свойств CSS](http://tympanus.net/codrops/css_reference/)<br>
