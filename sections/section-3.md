@@ -20,4 +20,5 @@
 
 #### Другие материалы
 ----------
+[Безопасные веб-шрифты](http://www.wearymax.ru/webmasters/fonts/)<br>
 [Скачать фотошоп, бесплатная 30 дневная версия](https://creative.adobe.com/ru/products/download/photoshop)
