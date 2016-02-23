@@ -10,6 +10,7 @@
 [Верстаем локально](../articles/верстаем-локально/article.md)<br>
 [Хабр. «Что на самом деле происходит, когда пользователь вбивает в браузер адрес»](http://habrahabr.ru/company/htmlacademy/blog/254825/)<br>
 [История HTML](http://htmleditors.ru/Rasnoe/history/history1.html)<br>
+[Совет разработчика: делайте "атомарные коммиты"](../articles/атомарные-коммиты/article.md)
 
 #### Emmet
 ----------
