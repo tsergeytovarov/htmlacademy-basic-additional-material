@@ -4,9 +4,9 @@
 Знакомимся с гитом и рабочим процессом на интенсиве
 
 ####Статьи
-----------
+
 [Атомарные коммиты](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/атомарные-коммиты/article.md)<br>
-[Github Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)<br>
+[Github Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)<br><br>
 
 
 ##**Методологии**
@@ -14,7 +14,7 @@
 
 ####Статьи
 [Верстка для самых маленьких. Верстаем страницу по БЭМу](https://habrahabr.ru/post/203440/)<br>
-[Типичные ошибки, которые совершают студенты начиная использовать БЭМ](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/ошибки-бэм/article.md)<br>
+[Типичные ошибки, которые совершают студенты начиная использовать БЭМ](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/ошибки-бэм/article.md)<br><br>
 
 
 ##**Препроцессоры CSS**
@@ -25,14 +25,14 @@
 [Чуть больше Sass для (БЭ)Модификаторов](http://frontender.info/bem-sass-modifiers/)<br>
 
 ####Скринкасты
-[Обзор языка препроцессора SASS](https://www.youtube.com/watch?v=9vuvqH1gvxs&index=1&list=PLQPQDQeOswiX4D7VpMt_C9Cz2Bzdi4Fn3)<br>
+[Обзор языка препроцессора SASS](https://www.youtube.com/watch?v=9vuvqH1gvxs&index=1&list=PLQPQDQeOswiX4D7VpMt_C9Cz2Bzdi4Fn3)<br><br>
 
 
 ##**Адаптивность: сетки**
 Резиновая верстка, медиавыражения, разные виды адаптивности.
 
 ####Полезные ресурсы
-[Визуализатор разницы между типами сеток](http://liquidapsive.com/)<br>
+[Визуализатор разницы между типами сеток](http://liquidapsive.com/)<br><br>
 
 
 ##**Флексбокс**
@@ -42,7 +42,7 @@
 [Полное руководство по Flexbox](http://frontender.info/a-guide-to-flexbox/)<br>
 
 ####Полезные ресурсы
-[Тренажер Flexbox](http://flexboxfroggy.com/#ru)<br>
+[Тренажер Flexbox](http://flexboxfroggy.com/#ru)<br><br>
 
 
 ##**Адаптивность: графика**
@@ -50,7 +50,7 @@
 
 ####Статьи
 [Использование SVG](http://frontender.info/using-svg/)<br>
-[Переосмысление отзывчивого SVG](http://frontender.info/rethinking-responsive-svg/)<br>
+[Переосмысление отзывчивого SVG](http://frontender.info/rethinking-responsive-svg/)<br><br>
 
 
 ##**Производительность верстки**
