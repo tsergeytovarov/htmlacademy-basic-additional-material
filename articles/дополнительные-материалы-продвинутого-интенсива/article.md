@@ -50,8 +50,8 @@
 
 ####Статьи
 [Использование SVG](http://frontender.info/using-svg/)<br>
-[Переосмысление отзывчивого SVG](http://frontender.info/rethinking-responsive-svg/)<br><br>
-
+[Переосмысление отзывчивого SVG](http://frontender.info/rethinking-responsive-svg/)<br>
+[SVG в вебе. Практическое руководство](https://svgontheweb.com/ru/)<br><br>
 
 ##**Производительность верстки**
 Тестируем и оптимизируем верстку
