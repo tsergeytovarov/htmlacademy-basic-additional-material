@@ -5,6 +5,8 @@
 
 ####Статьи
 
+[Как использовать консоль в Windows](http://nicothin.ru/page/console-windows)<br>
+[Как комфортно работать с GitHub в консоли Windows](http://nicothin.ru/page/kak-komfortno-rabotat-s-github-v-konsoli-windows)<br>
 [Атомарные коммиты](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/атомарные-коммиты/article.md)<br>
 [Github Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)<br><br>
 
