@@ -1,24 +1,31 @@
 [Вернуться к списку разделов.](../README.md)
 
-##**Фотошоп для верстальщика**
+## **Фотошоп для верстальщика**
 Изучаем фотошоп, готовим графику и текстовые стили проекта.
 
 #### Статьи
 ----------
-[Фотошоп для верстальщика](https://htmlacademy.ru/blog/51)<br>
-[Блог наставника. «Поговорим о CSS селекторах»](../articles/css-селекторы/article.md)<br>
-[Специфичтность селеторов CSS](http://sixrevisions.com/css/css-specificity/)<br>
-[Клавиатурное сокращение для быстрого копирования текста из фотошопа](https://gist.github.com/praveenvijayan/b4c367f4b903a3f9f250)<br>
+[Фотошоп для верстальщика](https://htmlacademy.ru/blog/51)
+[Блог наставника. «Поговорим о CSS селекторах»](../articles/css-селекторы/article.md)
+
+[Специфичтность селеторов CSS](http://sixrevisions.com/css/css-specificity/)
+
+[Клавиатурное сокращение для быстрого копирования текста из фотошопа](https://gist.github.com/praveenvijayan/b4c367f4b903a3f9f250)
+
 [Как ещё можно вставить картинку в документ. Используем base64](http://front-end.su/2015/09/08/image-to-base64/)
 
 #### Скринкасты
 ----------
-[Сергей Попов. «Верстка проекта — часть 1. Подготовка проекта и нарезка графики»](https://youtu.be/zugLe8Xrpd8)<br>
-[Сергей Попов. «Верстка проекта Maguwohost. Подготовка проекта и нарезка графики»](http://www.youtube.com/watch?v=LpnEKBiONRg)<br>
-[Сергей Попов. «Работа со шрифтами»](https://youtu.be/vXxOcCBLX4w)<br>
-[Андрей Алексеев. «Обзор плагина для получения классов из разметки»](https://youtu.be/PI9_XGKoVP8)<br>
+[Сергей Попов. «Верстка проекта — часть 1. Подготовка проекта и нарезка графики»](https://youtu.be/zugLe8Xrpd8)
+
+[Сергей Попов. «Верстка проекта Maguwohost. Подготовка проекта и нарезка графики»](http://www.youtube.com/watch?v=LpnEKBiONRg)
+
+[Сергей Попов. «Работа со шрифтами»](https://youtu.be/vXxOcCBLX4w)
+
+[Андрей Алексеев. «Обзор плагина для получения классов из разметки»](https://youtu.be/PI9_XGKoVP8)
 
 #### Другие материалы
 ----------
-[Безопасные веб-шрифты](http://www.wearymax.ru/webmasters/fonts/)<br>
+[Безопасные веб-шрифты](http://www.wearymax.ru/webmasters/fonts/)
+
 [Скачать фотошоп, бесплатная 30 дневная версия](https://creative.adobe.com/ru/products/download/photoshop)
