@@ -22,6 +22,11 @@
 
 [Типичные ошибки, которые совершают студенты начиная использовать БЭМ](https://github.com/tsergeytovarov/htmlacademy-basic-additional-material/blob/master/articles/ошибки-бэм/article.md)
 
+#### Скринкасты
+
+[Скринкаст: небольшое введение в БЭМ и разметка страницы по БЭМ](https://www.youtube.com/watch?v=txUZrAQnSLg&list=PLQPQDQeOswiX4D7VpMt_C9Cz2Bzdi4Fn3&index=2)
+
+[Скринкаст: небольшое введение в БЭМ и разметка страницы по БЭМ](https://www.youtube.com/watch?v=txUZrAQnSLg&list=PLQPQDQeOswiX4D7VpMt_C9Cz2Bzdi4Fn3&index=2)
 
 ## Препроцессоры CSS
 Взглянем на LESS и SASS и разберемся как с ними работать.
