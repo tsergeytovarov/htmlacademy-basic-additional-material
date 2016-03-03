@@ -59,6 +59,8 @@
 
 [Изучаем flexbox, играя в Tower Defense](http://www.flexboxdefense.com/)
 
+[Песочница с демонстрацией основных свойств Flexbox](http://codepen.io/enxaneta/full/adLPwv/)
+
 
 ## Адаптивность: графика
 
