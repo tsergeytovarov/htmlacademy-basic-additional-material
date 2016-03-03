@@ -59,6 +59,8 @@
 #### Полезные ресурсы
 [Тренажер Flexbox](http://flexboxfroggy.com/#ru)
 
+[Изучаем flexbox, играя в Tower Defense](http://www.flexboxdefense.com/)
+
 
 ## Адаптивность: графика
 
