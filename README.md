@@ -20,3 +20,25 @@
 [Прогрессивное улучшение](/sections/section-8.md).
 
 [FAQ](/sections/section-faq.md).
+
+## Продвинутый интенсив
+
+[Вводный раздел](/sections-adaptive/section-1.md)
+
+[Методологии](/sections-adaptive/section-2.md)
+
+[Препроцессоры CSS](/sections-adaptive/section-3.md)
+
+[Адаптивность: сетки](/sections-adaptive/section-4.md)
+
+[Флексбокс](/sections-adaptive/section-5.md)
+
+[Адаптивность: графика](/sections-adaptive/section-6.md)
+
+[Производительность верстки](/sections-adaptive/section-7.md)
+
+[Автоматизация](/sections-adaptive/section-8.md)
+
+[Инструменты ускорения вёрстки](/sections-adaptive/section-9.md)
+
+[FAQ](/sections-adaptive/section-faq.md).
