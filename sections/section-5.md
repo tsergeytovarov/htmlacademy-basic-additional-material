@@ -7,6 +7,8 @@
 ----------
 [Полное руководство по центрированию в CSS](http://frontender.info/centering-css-complete-guide/)
 
+[Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
+
 #### Аналоги google-font'а и генераторы
 ----------
 [fonts4web](http://fonts4web.ru/) — поиск русскиx шрифтов
