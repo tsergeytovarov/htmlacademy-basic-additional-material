@@ -7,6 +7,7 @@
 ----------
 [Полное руководство по Flexbox](http://frontender.info/a-guide-to-flexbox/)
 
+[Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
 
 #### Другие материалы
 ----------
