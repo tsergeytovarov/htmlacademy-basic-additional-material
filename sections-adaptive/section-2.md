@@ -12,3 +12,7 @@
 #### Скринкасты
 ------
 [Скринкаст: небольшое введение в БЭМ и разметка страницы по БЭМ](https://www.youtube.com/watch?v=txUZrAQnSLg&list=PLQPQDQeOswiX4D7VpMt_C9Cz2Bzdi4Fn3&index=2)
+
+#### Видео
+------
+[БЭМ — норм, Вадим Макеев](https://youtu.be/RM55tkWfHDc)
