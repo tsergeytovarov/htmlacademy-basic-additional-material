@@ -9,6 +9,8 @@
 
 [Как попасть в макет и не сойти с ума](https://isqua.ru/blog/2016/05/30/kak-popast-v-makiet-i-nie-soiti-s-uma/)
 
+[Краш-тест вёрстки](https://isqua.ru/blog/2016/06/19/crash-test-viorstki/)
+
 #### Аналоги google-font'а и генераторы
 ----------
 [fonts4web](http://fonts4web.ru/) — поиск русскиx шрифтов

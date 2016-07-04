@@ -15,6 +15,8 @@
 
 [«Загадочные отступы между инлайн-элементами (все решения в 1м месте)»](http://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
 
+[Контент по центру, фон по ширине](https://isqua.ru/blog/2016/06/22/content-po-sentru-fon-po-shirinie/)
+
 #### Скринкасты
 ----------
 [Сергей Попов. «Сетки»](https://youtu.be/ftGOG1SqMFg)
@@ -30,6 +32,8 @@
 [Сниппеты CSS](https://css-tricks.com/snippets/css/)
 
 [Справочник свойств CSS](http://tympanus.net/codrops/css_reference/)
+
+[Специфичность CSS селекторов](http://cssspecificity.com/#)
 
 #### Продвинутые материалы
 ----------
