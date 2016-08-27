@@ -45,4 +45,4 @@
 
 #### Другие материалы
 ----------
-[Список распространенных ошибок, дилем и затруднительных ситуаций в HTML и CSS.](http://wtfhtmlcss.com/)([перевод](http://elforastero.github.io/wtf-html-css/))
+[Список распространенных ошибок, дилемм и затруднительных ситуаций в HTML и CSS.](http://wtfhtmlcss.com/)([перевод](http://elforastero.github.io/wtf-html-css/))

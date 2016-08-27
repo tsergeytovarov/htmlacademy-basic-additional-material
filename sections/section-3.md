@@ -8,7 +8,7 @@
 [Фотошоп для верстальщика](https://htmlacademy.ru/blog/51)
 [Блог наставника. «Поговорим о CSS селекторах»](../articles/css-селекторы/article.md)
 
-[Специфичтность селеторов CSS](http://sixrevisions.com/css/css-specificity/)
+[Специфичность селекторов CSS](http://sixrevisions.com/css/css-specificity/)
 
 [Клавиатурное сокращение для быстрого копирования текста из фотошопа](https://gist.github.com/praveenvijayan/b4c367f4b903a3f9f250)
 
