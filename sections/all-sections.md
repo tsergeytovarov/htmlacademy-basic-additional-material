@@ -2,7 +2,7 @@
 ----------
 #### Статьи академии
 
-[Приницпы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
+[Принципы анимации для веба](http://habrahabr.ru/company/htmlacademy/blog/255583/)
 
 [Обзор текстовых редакторов для верстальщика](https://htmlacademy.ru/blog/40)
 
