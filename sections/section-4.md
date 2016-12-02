@@ -15,7 +15,7 @@
 
 [«Загадочные отступы между инлайн-элементами (все решения в 1м месте)»](http://css-live.ru/articles/zagadochnye-otstupy-mezhdu-inlajn-blokami.html)
 
-[Контент по центру, фон по ширине](https://isqua.ru/blog/2016/06/22/content-po-sentru-fon-po-shirinie/)
+[Контент по центру, фон по ширине](https://isqua.ru/blog/2016/06/23/content-po-sentru-fon-po-shirinie/)
 
 #### Скринкасты
 ----------
