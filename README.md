@@ -12,11 +12,11 @@
 
 [Сетки](/sectionssss/section-4.md).
 
-[Декоративные элементы](/sections/section-5.md).
+[Декоративные элементы](/sectionssssss/section-5.md).
 
-[Оформление контента](/sections/section-6.md).
+[Оформление контента](/sectionsssss/section-6.md).
 
-[Введение в JavaScript](/sections/section-7.md).
+[Введение в JavaScript](/sectionsssss/section-7.md).
 
 [Прогрессивное улучшение](/sections/section-8.md).
 
